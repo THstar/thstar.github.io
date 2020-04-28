@@ -23,7 +23,8 @@ tags:
  If you write in the following way, you can distinguish the date and the title automatically.
 
 > yyyy-mm-dd-Title.md
-> ex) 2020-04-28-Writing Posts and Upload
+
+> ex) 2020-04-28-Writing Posts and Upload.md
 
 ## Step 3. Upload .md file
 
