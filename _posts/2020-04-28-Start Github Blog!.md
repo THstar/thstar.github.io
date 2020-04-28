@@ -1,4 +1,3 @@
----
 title: "Start Github Blog!"
 last_modified_at: 2020-04-28
 categories:
@@ -6,7 +5,6 @@ categories:
 tags:
   - Github
   - Blog
----
 
 # Super easy way to start Github Blog!
 
