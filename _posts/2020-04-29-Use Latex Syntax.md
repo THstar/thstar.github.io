@@ -1,4 +1,15 @@
-﻿## Setting
+---
+title: "Use Latex Syntax"
+last_modified_at: 2020-04-29
+categories:
+  - Blog
+tags:
+  - Github
+  - Blog
+  - Latex
+---
+
+## Setting
 * To use Latex syntax using Markdown on the Github blog, you need to configure the following. [Check](https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/)
 * Create a file with the following contents in the address below.
 > _includes/head/custom.html
