@@ -34,12 +34,15 @@ tags:
 
 ## How to use Latex syntax
 
-* Used inline: ```\$contents\$```
-> ex) set parameter \$\alpha\$ as 0.05 
- 
+* Used inline:
+> ex) 
+>```
+>set parameter \$\alpha\$ as 0.05 
+>```
+
 result:  set parameter $\alpha$ as 0.05
 
-* Equation: ```\$\$contents\$\$```
+* Equation:
 
 > ex)
 > ```
