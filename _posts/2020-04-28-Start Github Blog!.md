@@ -11,6 +11,9 @@ then you can find that  `thstar_mm_start.github.io` repository was created.
 ![](https://www.dropbox.com/s/ss6yuryi93o05ej/check_fork.PNG?dl=1)
 
 
+
+
+
 ## Step 2. Change the repositories name
 
 After go into your `thstar_mm_start.github.io` repository, click `setting`.
@@ -23,6 +26,10 @@ Rename your Repository name, like `your_id.github.io` .
 
 This Repository name used as your github blog url.
 
+
+
+
+
 ## Step 3. Change `config.yml` file.
 
 Click `_config.yml` in your repository, then edit this file.
@@ -34,6 +41,10 @@ Change URL using your repository name.
 ![](https://www.dropbox.com/s/jmrejllyoqputqx/change_url.png?dl=1)
 
 After that, if you go into your url, `https://your_id.github.io`, you can find that your blog was created.
+
+
+
+
 
 ## Step 4. Change other items in  `_config.yml` file.
 
