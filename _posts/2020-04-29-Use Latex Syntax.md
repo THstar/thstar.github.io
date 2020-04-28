@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Use Latex Syntax"
 last_modified_at: 2020-04-29
 categories:
