@@ -39,7 +39,7 @@ tags:
 
 > ex) 
 > ```
-> set parameter \$\alpha\$ as 0.05
+> set parameter $\alpha$ as 0.05
 > ``` 
  
 result:  set parameter $\alpha$ as 0.05
