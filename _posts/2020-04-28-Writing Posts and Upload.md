@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Writing Posts and Upload"
 last_modified_at: 2020-04-28
 categories:
