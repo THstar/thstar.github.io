@@ -1,4 +1,14 @@
-﻿# Super easy way to start Github Blog!
+---
+title: "Start Github Blog!"
+last_modified_at: 2020-04-28
+categories:
+  - Blog
+tags:
+  - Github
+  - Blog
+---
+
+# Super easy way to start Github Blog!
 
 ## Step 1. Fork the thstar_mm_start repositories
 Go to the thstar_mm_start Github pages [found here](https://github.com/THstar/thstar_mm_start.github.io) and fork the repositories.
